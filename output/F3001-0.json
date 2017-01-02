@@ -1,0 +1,94 @@
+{
+    "courseCode": "F3001",
+    "courseName": "Interior Architecture",
+    "courseType": "Bachelor degree (honours)",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Interior Architecture\",\n        \"courseCode\" : \"F3001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Art, Design & Architecture\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "IAR1113",
+                "DWG1201",
+                "AHT1101",
+                "OHS1000"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "IAR1114",
+                "IAR1411",
+                "IAR1602"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "IAR2115",
+                "IAR2601",
+                "IAR2411"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "IAR2116",
+                "IAR2602"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "IAR3117",
+                "PPR3102",
+                "IAR3401"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "IAR3118",
+                "IAR3303",
+                "IAR4406"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 4"
+            },
+            "units": [
+                "IAR4119",
+                "IAR4500"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 4"
+            },
+            "units": [
+                "IAR4120",
+                "IAR4501"
+            ]
+        }
+    ]
+}

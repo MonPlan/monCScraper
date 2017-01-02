@@ -1,0 +1,108 @@
+{
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Education\",\n        \"courseCode\" : \"D3001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Education\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\",\" IN PENINSULA FT\"] :\n            [\"IN CLAYTON FT\",\" IN PENINSULA FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"January\",\" February\",\" July\"] :\n            [\"January\",\" February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "EDF1303",
+                "EDF1206",
+                "EDF1101"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "EDF1304",
+                "EDF1205",
+                "EDF1102"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "EDF2210",
+                "EDF2214",
+                "EDF2101"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "EDF2031",
+                "EDF2213",
+                "EDF2102",
+                "EDF2211"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "EDF3210",
+                "EDF3212",
+                "EDF3101",
+                "EDF3269"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "EDF3211",
+                "EDF3213",
+                "EDF3102",
+                "EDF3216",
+                "EDF3035"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 4"
+            },
+            "units": [
+                "EDF4100",
+                "EDF4260",
+                "EDF4041",
+                "EDF4266",
+                "EDF4268"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 4"
+            },
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                "EDF4042",
+                "EDF4267",
+                "EDF4269"
+            ]
+        }
+    ]
+}

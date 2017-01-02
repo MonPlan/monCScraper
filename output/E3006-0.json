@@ -1,0 +1,96 @@
+{
+    "courseCode": "E3006",
+    "courseName": "Engineering and Design",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Design\",\n        \"courseCode\" : \"E3006\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Art, Design & Architecture\",\" Engineering\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ENG1005",
+                "ENG1002",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "AHT1101",
+                "TDN1002",
+                "TDN2001",
+                "DWG1201",
+                "OHS1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "MEC2401",
+                "ENG1060",
+                "ENG2006"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "IDN1001",
+                "IDN1002"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC2402",
+                "MEC2403",
+                "MEC2404",
+                "MEC2405"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "TDN3001",
+                "TDN3002",
+                "CDS2001"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3454",
+                "MEC3453"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "IDN3001",
+                "IDN3002"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3455",
+                "MEC3451",
+                "MEC4401",
+                "MEC4407"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3416",
+                "MEC3457",
+                "MEC4402"
+            ]
+        }
+    ]
+}

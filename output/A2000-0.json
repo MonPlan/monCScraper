@@ -1,0 +1,50 @@
+{
+    "courseCode": "A2000",
+    "courseName": "Arts",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Arts\",\n        \"courseCode\" : \"A2000\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\",\" IN CLAYTON FT\"] :\n            [\"IN CAULFIELD FT PT\",\" IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 1"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 1"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 2"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 2"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 3"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 3"
+            },
+            "units": []
+        }
+    ]
+}

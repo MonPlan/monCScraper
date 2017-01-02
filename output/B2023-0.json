@@ -1,0 +1,56 @@
+{
+    "courseCode": "B2023",
+    "courseName": "Commerce and Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Commerce and Science\",\n        \"courseCode\" : \"B2023\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\",\" Science\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACC1200",
+                "ECC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MKC1200",
+                "ETC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MGC1010",
+                "BTC1110",
+                "SCI1020"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "SCI2010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}

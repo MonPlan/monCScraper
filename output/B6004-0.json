@@ -1,0 +1,45 @@
+{
+    "courseCode": "B6004",
+    "courseName": "Banking and Finance",
+    "courseType": "Expert master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Banking and Finance\",\n        \"courseCode\" : \"B6004\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Postgraduate\",\n        \"courseQualification\" : \"Expert master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"2\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "ACF5903",
+                "ECF5953",
+                "ETF5900",
+                "BFF5925"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "BFF5935",
+                "BFF5916",
+                "BFF5280"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "BFF5926",
+                "BFF5914",
+                "BFF5915"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "BFF5130"
+            ]
+        }
+    ]
+}

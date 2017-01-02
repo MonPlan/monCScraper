@@ -1,0 +1,77 @@
+{
+    "courseCode": "B2003",
+    "courseName": "Business Specialist",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Business Specialist\",\n        \"courseCode\" : \"B2003\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\",\" IN CITY FT\"] :\n            [\"IN CAULFIELD FT PT\",\" IN CITY FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\",\" November\"] :\n            [\"February\",\" July\",\" November\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "BTF1010",
+                "MGF1010",
+                "BFF1001",
+                "ECF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "MGF2351",
+                "MKF1120",
+                "ACF1100",
+                "ETF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 3",
+                "year": "Year 1"
+            },
+            "units": [
+                "ACF2400",
+                "ACF2200",
+                "BFF2140",
+                "BTX2000"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "MGF3681",
+                "ACF2100",
+                "ACF3200",
+                "BTF3931"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "BEX3012"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Trimester 3",
+                "year": "Year 2"
+            },
+            "units": [
+                "FIT3152",
+                "MGX3121",
+                "ACF3600",
+                "ACF3100"
+            ]
+        }
+    ]
+}

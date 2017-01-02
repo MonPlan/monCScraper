@@ -1,0 +1,68 @@
+{
+    "courseCode": "B6015",
+    "courseName": "Professional Accounting and Business Law",
+    "courseType": "Master degree/Master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Professional Accounting and Business Law\",\n        \"courseCode\" : \"B6015\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Postgraduate\",\n        \"courseQualification\" : \"Master degree\\/Master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"2.5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 1"
+            },
+            "units": [
+                "ACF5950",
+                "ECF5953",
+                "ETF5900",
+                "MGF5962"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 1"
+            },
+            "units": [
+                "ACF5953",
+                "ACF5955",
+                "BFF5902",
+                "BTF5903"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 2"
+            },
+            "units": [
+                "ACF5904",
+                "ACF5957",
+                "BFF5021",
+                "BTF5501"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 2"
+            },
+            "units": [
+                "BTF5965",
+                "BTF5001",
+                "ACF5956",
+                "ACF5100"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 3"
+            },
+            "units": [
+                "BTF5801",
+                "BTF5000",
+                "BFF5954",
+                "ACF5510"
+            ]
+        }
+    ]
+}

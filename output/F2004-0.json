@@ -1,0 +1,69 @@
+{
+    "courseCode": "F2004",
+    "courseName": "Design and Business",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Design and Business\",\n        \"courseCode\" : \"F2004\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Art, Design & Architecture\",\" Business\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CDS1001",
+                "AHT1101",
+                "DWG1201",
+                "OHS1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CDS1002",
+                "TDN1002",
+                "MKF1120"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CDS2001",
+                "TDN2001",
+                "ECF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF1200",
+                "BFF1001",
+                "BTF1010",
+                "MGF1010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CDS3001",
+                "TDN3001",
+                "ETF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CDS3002",
+                "TDN3002"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}

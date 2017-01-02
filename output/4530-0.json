@@ -1,0 +1,89 @@
+{
+    "courseCode": "4530",
+    "courseName": "Nutrition and Dietetics",
+    "courseType": "",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Nutrition and Dietetics\",\n        \"courseCode\" : \"4530\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Medicine, Nursing & Health Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"\",\n        \"courseLocations\" :  ( international_only ? \n            [\"\"] :\n            [\"\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"\"] :\n            [\"\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "NUT1001",
+                "NUT1010",
+                "NUT1101"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "NUT1002",
+                "NUT1102"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "NUT2001",
+                "NUT2102"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "NUT2002",
+                "NUT2103"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "BND3102",
+                "BND3101"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "BND3202",
+                "BND3302"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 4"
+            },
+            "units": [
+                "BND4082",
+                "BND4092"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 4"
+            },
+            "units": [
+                "BND4102",
+                "BND4402"
+            ]
+        }
+    ]
+}

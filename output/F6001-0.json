@@ -1,0 +1,44 @@
+{
+    "courseCode": "F6001",
+    "courseName": "Architecture",
+    "courseType": "Professional entry master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Architecture\",\n        \"courseCode\" : \"F6001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Art, Design & Architecture\"],\n        \"courseLevel\" : \"Postgraduate\",\n        \"courseQualification\" : \"Professional entry master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT\"] \n        ),\n        \"courseDurationFullTime\" : \"2\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "ARC4001",
+                "ARC4501",
+                "ARC4101"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "ARC4002",
+                "ARC4502"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ARC5001",
+                "ARC5501",
+                "ARC5201"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ARC5002",
+                "ARC5502"
+            ]
+        }
+    ]
+}

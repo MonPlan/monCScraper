@@ -1,0 +1,62 @@
+{
+    "courseCode": "A2001",
+    "courseName": "Global Studies",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Global Studies\",\n        \"courseCode\" : \"A2001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "ATS1020",
+                "ATS1701"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "ATS1873"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "ATS2086",
+                "ATS2706"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "ATS2624"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 1",
+                "year": "Year 3"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Sem 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "ATS3111"
+            ]
+        }
+    ]
+}

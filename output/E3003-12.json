@@ -1,0 +1,88 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Commerce Specialist\",\n        \"courseCode\" : \"E3003\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\",\" Engineering\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ECC1000",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005",
+                "ECC1100",
+                "ACC1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "ECE2071",
+                "ETC2440",
+                "ETC2410"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060",
+                "ECE2072",
+                "BFC2140",
+                "ETC2420"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG2005",
+                "BFC2000",
+                "BFC2430"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ETC2430"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECE3073"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECE3091",
+                "ETC3530"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECE4094",
+                "ECE4099"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECE4095"
+            ]
+        }
+    ]
+}

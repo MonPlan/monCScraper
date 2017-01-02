@@ -1,0 +1,70 @@
+{
+    "courseCode": "C2001",
+    "courseName": "Computer Science",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Computer Science\",\n        \"courseCode\" : \"C2001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Information Technology\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\",\" IN MALAYSIA FT\"] :\n            [\"IN CLAYTON FT PT\",\" IN MALAYSIA FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 1"
+            },
+            "units": [
+                "FIT1045",
+                "MAT1830",
+                "FIT1047"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 1"
+            },
+            "units": [
+                "FIT1008",
+                "MAT1841",
+                "FIT1043"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 2"
+            },
+            "units": [
+                "FIT2004",
+                "FIT2094",
+                "FIT2086"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 2"
+            },
+            "units": [
+                "FIT1049",
+                "FIT2014"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "YEAR 3"
+            },
+            "units": [
+                "FIT3163"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "YEAR 3"
+            },
+            "units": [
+                "FIT3164",
+                "FIT3179"
+            ]
+        }
+    ]
+}

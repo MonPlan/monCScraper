@@ -1,0 +1,50 @@
+{
+    "courseCode": "B6011",
+    "courseName": "Professional Accounting",
+    "courseType": "Expert master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Professional Accounting\",\n        \"courseCode\" : \"B6011\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Postgraduate\",\n        \"courseQualification\" : \"Expert master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"2\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "ACF5950",
+                "ECF5953",
+                "BTF5903",
+                "ETF5900"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "ACF5953",
+                "ACF5955",
+                "ACF5904",
+                "BFF5954"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF5956",
+                "ACF5957",
+                "BTF5501"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "ACF5100",
+                "BTF5965"
+            ]
+        }
+    ]
+}

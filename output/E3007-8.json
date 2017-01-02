@@ -1,0 +1,84 @@
+{
+    "courseCode": "E3007",
+    "courseName": "Engineering and Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Science\",\n        \"courseCode\" : \"E3007\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Engineering\",\" Science\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "FIT2085",
+                "SCI1020"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060",
+                "FIT2101",
+                "SCI2010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MAT1830",
+                "FIT2099"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "FIT2004",
+                "FIT2100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "FIT3165",
+                "FIT3077"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "FIT2107",
+                "FIT3171"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "FIT3170",
+                "FIT4003",
+                "FIT4002",
+                "FIT3159"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}

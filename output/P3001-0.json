@@ -1,0 +1,50 @@
+{
+    "courseCode": "P3001",
+    "courseName": "Pharmacy",
+    "courseType": "Bachelor degree (honours)",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Pharmacy\",\n        \"courseCode\" : \"P3001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Pharmacy\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN MALAYSIA FT\",\" IN PARKVILLE FT\"] :\n            [\"IN MALAYSIA FT\",\" IN PARKVILLE FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": [
+                "PAC1001"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "PAC3241",
+                "PAC3421",
+                "PAC3191",
+                "PAC3351"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "PAC3252",
+                "PAC3432",
+                "PAC3512",
+                "PAC3362"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "PAC4261",
+                "PAC4441",
+                "PAC4451",
+                "PAC4371"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "PAC4482",
+                "PAC4472",
+                "PAC4462",
+                "PAC4382"
+            ]
+        }
+    ]
+}

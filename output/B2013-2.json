@@ -1,0 +1,67 @@
+{
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Business and Business Specialist\",\n        \"courseCode\" : \"B2013\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\",\" IN CITY FT\"] :\n            [\"IN CAULFIELD FT PT\",\" IN CITY FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" June\",\" July\",\" November\"] :\n            [\"February\",\" June\",\" November\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF1100",
+                "MGF1010",
+                "BTF1010",
+                "ECF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ETF1100",
+                "MKF1120",
+                "BFF1001",
+                "MGF2351"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF2400",
+                "MGF1100",
+                "ECF1200",
+                "MKF2111"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ETX2250",
+                "BFF2341",
+                "ECF2721",
+                "ECF2331"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "BEX3012"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MGF3681",
+                "BEX3000",
+                "BTX3110",
+                "ECX3550"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}

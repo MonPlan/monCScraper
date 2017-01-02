@@ -1,0 +1,62 @@
+{
+    "courseCode": "A2005",
+    "courseName": "Arts and Fine Art",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Arts and Fine Art\",\n        \"courseCode\" : \"A2005\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Art, Design & Architecture\",\" Arts, Humanities & Social Sciences\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\"] :\n            [\"IN CAULFIELD FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR1011",
+                "DWG1201",
+                "AHT1101",
+                "OHS1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR1012",
+                "VPR1113",
+                "AHT1102"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR2011",
+                "AHT2102"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR2012"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR3011"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "VPR3012"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}
