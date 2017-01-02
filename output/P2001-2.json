@@ -1,0 +1,80 @@
+{
+    "courseCode": "P2001",
+    "courseName": "Pharmaceutical Science",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Pharmaceutical Science\",\n        \"courseCode\" : \"P2001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Pharmacy\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN PARKVILLE FT\"] :\n            [\"IN PARKVILLE FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "PSC1011",
+                "PSC1021",
+                "PSC1031",
+                "PSC1041"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "PSC1012",
+                "PSC1022",
+                "PSC1032",
+                "PSC1042"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "PSC2011",
+                "PSC2021",
+                "PSC2031",
+                "PSC2041"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "PSC2012",
+                "PSC2122",
+                "PSC2132",
+                "PSC2142"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "PSC3111",
+                "PSC3121",
+                "PSC3131",
+                "PSC3041"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "PSC3112",
+                "PSC3122",
+                "PSC3132",
+                "PSC3142"
+            ]
+        }
+    ]
+}

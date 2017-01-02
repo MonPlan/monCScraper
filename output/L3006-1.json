@@ -1,0 +1,89 @@
+{
+    "courseCode": "L3006",
+    "courseName": "Laws and Music",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Laws and Music\",\n        \"courseCode\" : \"L3006\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\",\" Law\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                "ATS1899"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                "ATS1346"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                "ATS1345"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                "ATS1900",
+                "ATS2333"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                "ATS2901",
+                "ATS2060"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW3402",
+                "ATS2902",
+                "ATS3094"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ATS3061"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW4331",
+                "LAW4170"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW4323",
+                "LAW4332"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "LAW4303",
+                "LAW4309"
+            ]
+        }
+    ]
+}

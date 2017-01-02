@@ -1,0 +1,74 @@
+{
+    "courseCode": "M2006",
+    "courseName": "Nursing",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Nursing\",\n        \"courseCode\" : \"M2006\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Medicine, Nursing & Health Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\",\" IN PENINSULA FT\"] :\n            [\"IN CLAYTON FT PT\",\" IN PENINSULA FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "BMA1901",
+                "NUR1010",
+                "NUR1001",
+                "NUR1105"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "BMA1912",
+                "NUR1102",
+                "NUR1202",
+                "NUR1205"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "NUR2106",
+                "NUR2107"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "NUR2206",
+                "NUR2207"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "NUR3002",
+                "NUR3001",
+                "NUR3003",
+                "NUR3006"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "NUR3005",
+                "NUR3004"
+            ]
+        }
+    ]
+}

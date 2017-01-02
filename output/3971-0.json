@@ -1,0 +1,27 @@
+{
+    "courseCode": "3971",
+    "courseName": "Health Science",
+    "courseType": "Bachelor degree (honours) - 1 year",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Health Science\",\n        \"courseCode\" : \"3971\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Medicine, Nursing & Health Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours) - 1 year\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN ALFRED FT\"] :\n            [\"IN ALFRED FT\"] \n        ),\n        \"courseDurationFullTime\" : \"1\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "HSC4001",
+                "HSC4011"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "HSC4002"
+            ]
+        }
+    ]
+}

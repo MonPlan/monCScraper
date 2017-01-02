@@ -1,0 +1,92 @@
+{
+    "courseCode": "D3008",
+    "courseName": "Education and Computer Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Education and Computer Science\",\n        \"courseCode\" : \"D3008\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Education\",\" Information Technology\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF1303",
+                "FIT1045",
+                "EDF1053",
+                "FIT1047",
+                "MAT1830"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF1304",
+                "FIT1008",
+                "EDF1054",
+                "FIT1049",
+                "MAT1841"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF2210",
+                "EDF2020",
+                "EDF2053",
+                "FIT2004",
+                "FIT2099"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF2031",
+                "EDF2021",
+                "EDF2054",
+                "FIT2014",
+                "FIT2102"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF3036",
+                "EDF3021",
+                "EDF3053",
+                "FIT3161",
+                "FIT3143"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF3211",
+                "EDF3022",
+                "EDF3054",
+                "FIT3162",
+                "FIT3155"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF4260",
+                "EDF4022",
+                "EDF4053",
+                "EDF4024",
+                "EDF4100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EDF4020",
+                "EDF4023",
+                "EDF4054",
+                "EDF4025",
+                "EDF4101"
+            ]
+        }
+    ]
+}

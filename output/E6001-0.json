@@ -1,0 +1,26 @@
+{
+    "courseCode": "E6001",
+    "courseName": "Advanced Engineering",
+    "courseType": "Expert master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Advanced Engineering\",\n        \"courseCode\" : \"E6001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Engineering\"],\n        \"courseLevel\" : \"Postgraduate\",\n        \"courseQualification\" : \"Expert master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\",\" IN MALAYSIA FT\"] :\n            [\"IN CLAYTON FT PT\",\" IN MALAYSIA FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"2\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "ENG5001"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "ENG5002"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "courseCode": "S2003",
+    "courseName": "Science and Global Studies",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Science and Global Studies\",\n        \"courseCode\" : \"S2003\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\",\" Science\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ATS1020",
+                "ATS1325"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ATS1326"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "SCI1020",
+                "ATS2086",
+                "ATS2625"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "SCI2010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ATS3089"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ATS3111"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        }
+    ]
+}

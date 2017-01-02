@@ -1,0 +1,72 @@
+{
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Business and Business Specialist\",\n        \"courseCode\" : \"B2013\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CAULFIELD FT\",\" IN CITY FT\"] :\n            [\"IN CAULFIELD FT PT\",\" IN CITY FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" June\",\" July\",\" November\"] :\n            [\"February\",\" June\",\" November\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF1200",
+                "MGF1010",
+                "ECF1100",
+                "MKF1120"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "BTF1010",
+                "BFF1001",
+                "MKF2111",
+                "ETF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "EFC1100",
+                "MKF2801",
+                "MKF2121"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MKF1120",
+                "MKF3121",
+                "MKF2131"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MKF3131",
+                "MKF3461"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "BTF3181"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ETF1100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACF1200",
+                "MGF1010"
+            ]
+        }
+    ]
+}

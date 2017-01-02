@@ -1,0 +1,93 @@
+{
+    "courseCode": "M3001",
+    "courseName": "Occupational Therapy",
+    "courseType": "Bachelor degree (honours)",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Occupational Therapy\",\n        \"courseCode\" : \"M3001\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Medicine, Nursing & Health Sciences\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN PENINSULA FT\"] :\n            [\"IN PENINSULA FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "BMA1901",
+                "IPE1011",
+                "OCC1021",
+                "OCC1011"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": [
+                "BMA1902",
+                "OCC1012",
+                "OCC1032",
+                "OCC1022"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "OCC2011"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "OCC2022",
+                "OCC2020"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "OCC3041",
+                "OCC3061",
+                "OCC3031",
+                "OCC3000"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": [
+                "OCC3072",
+                "OCC3052"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 4"
+            },
+            "units": [
+                "OCC4091",
+                "OCC4081"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 4"
+            },
+            "units": [
+                "OCC4082",
+                "OCC4092"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "courseCode": "E3007",
+    "courseName": "Engineering and Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Science\",\n        \"courseCode\" : \"E3007\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Engineering\",\" Science\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "BIO2011",
+                "SCI1020"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060",
+                "CHE2162",
+                "SCI2010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CHE2164",
+                "CIV2263"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG2005",
+                "ENE2503"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "CIV3248",
+                "ENE3048"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENE3606",
+                "BTC3100"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "APG5229"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENE4603",
+                "ENE4212",
+                "ENE4607"
+            ]
+        }
+    ]
+}

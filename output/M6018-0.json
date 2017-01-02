@@ -1,0 +1,79 @@
+{
+    "courseCode": "M6018",
+    "courseName": "Medical Science and Medicine",
+    "courseType": "Bachelor degree/Master degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Medical Science and Medicine\",\n        \"courseCode\" : \"M6018\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Medicine, Nursing & Health Sciences\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Master degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN GIPPSLAND FT\"] :\n            [\"IN GIPPSLAND FT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 1"
+            },
+            "units": [
+                "GMA1010"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 1"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 2"
+            },
+            "units": [
+                "MED3051",
+                "MED3200"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 2"
+            },
+            "units": [
+                "MED3062"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 3"
+            },
+            "units": [
+                "MED4190",
+                "MED4200"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 3"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 1",
+                "year": "Year 4"
+            },
+            "units": [
+                "MED5091",
+                "MED5102"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "Semester 2",
+                "year": "Year 4"
+            },
+            "units": [
+                "MED5092"
+            ]
+        }
+    ]
+}

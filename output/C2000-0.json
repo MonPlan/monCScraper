@@ -1,0 +1,60 @@
+{
+    "courseCode": "C2000",
+    "courseName": "Information Technology",
+    "courseType": "Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Information Technology\",\n        \"courseCode\" : \"C2000\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Information Technology\"],\n        \"courseLevel\" : \"Undergraduate single degrees\",\n        \"courseQualification\" : \"Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"3\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\",\" July\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 1",
+                "year": "\u00a0"
+            },
+            "units": [
+                "FIT1045",
+                "FIT1047"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 1",
+                "year": "\u00a0"
+            },
+            "units": [
+                "FIT1049"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 2",
+                "year": "\u00a0"
+            },
+            "units": [
+                "FIT2001",
+                "FIT2094"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 2",
+                "year": "\u00a0"
+            },
+            "units": [
+                "FIT2002"
+            ]
+        },
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 3",
+                "year": "\u00a0"
+            },
+            "units": []
+        },
+        {
+            "teachingPeriod": {
+                "semester": "YEAR 3",
+                "year": "\u00a0"
+            },
+            "units": []
+        }
+    ]
+}

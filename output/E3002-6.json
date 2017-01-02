@@ -1,0 +1,83 @@
+{
+    "courseCode": "E3002",
+    "courseName": "Engineering and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Arts\",\n        \"courseCode\" : \"E3002\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\",\" Engineering\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "MEC2401"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060",
+                "ENG2006"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC2402",
+                "MEC2403"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC2404",
+                "MEC2405"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3454",
+                "MEC3453"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3455",
+                "MEC3451",
+                "MEC4401",
+                "MEC4407"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MEC3416",
+                "MEC3457",
+                "MEC4402"
+            ]
+        }
+    ]
+}

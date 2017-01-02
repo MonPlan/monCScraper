@@ -1,0 +1,86 @@
+{
+    "courseCode": "E3002",
+    "courseName": "Engineering and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Arts\",\n        \"courseCode\" : \"E3002\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Arts, Humanities & Social Sciences\",\" Engineering\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "MTE2544"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060",
+                "ENG2005"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE2541",
+                "MTE2546"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE2542",
+                "MTE2545"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE3543",
+                "MTE3542"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE3545",
+                "MTE3546"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE3541",
+                "MTE4525",
+                "MTE4572",
+                "MTE4571"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MTE3547",
+                "MTE4526",
+                "MTE4573"
+            ]
+        }
+    ]
+}

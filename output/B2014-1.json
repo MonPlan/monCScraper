@@ -1,0 +1,63 @@
+{
+    "courseCode": "B2014",
+    "courseName": "Commerce and Commerce Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Commerce and Commerce Specialist\",\n        \"courseCode\" : \"B2014\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"4\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ACC1200",
+                "MGC1010",
+                "ECC1000",
+                "ETC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "MKC1200",
+                "BTC1110",
+                "ECC1100",
+                "ETC2410"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECC2000",
+                "ECC2010"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ETC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECC3690"
+            ]
+        }
+    ]
+}

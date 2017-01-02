@@ -1,0 +1,88 @@
+{
+    "courseCode": "E3005",
+    "courseName": "Engineering and Commerce",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "script": "{\n        \"pageType\" : \"Course details\",\n        \"courseTitle\" : \"Engineering and Commerce\",\n        \"courseCode\" : \"E3005\",\n        \"courseYear\" : \"2017\",\n        \"courseInterestAreas\" : [\"Business\",\" Engineering\"],\n        \"courseLevel\" : \"Undergraduate double degrees\",\n        \"courseQualification\" : \"Bachelor degree (honours)\\/Bachelor degree\",\n        \"courseLocations\" :  ( international_only ? \n            [\"IN CLAYTON FT\"] :\n            [\"IN CLAYTON FT PT\"] \n        ),\n        \"courseDurationFullTime\" : \"5\",\n        \"courseCommenceInMonths\" : ( international_only ?\n            [\"February\",\" July\"] :\n            [\"February\"]\n        ),\n        \"studentType\" : ( international_only ?\n            \"international\" :\n            \"domestic\"\n        ),\n        \"linkref\": linkref,\n        \"referrer\": referrer\n    });\n}",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": {},
+            "units": []
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1001",
+                "ENG1090",
+                "ACC1200",
+                "ECC1000",
+                "ENG1090"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1002",
+                "ENG1005",
+                "MKC1200",
+                "ETC1000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1003",
+                "TRC2201",
+                "MGC1010",
+                "BTC1110"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG1060"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ECE2071",
+                "MEC2402"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "ENG2005",
+                "TRC2001"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "TRC3200"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "TRC3600",
+                "TRC3000"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "TRC4000",
+                "TRC4800",
+                "TRC3500",
+                "MEC4418"
+            ]
+        },
+        {
+            "teachingPeriod": {},
+            "units": [
+                "TRC4001"
+            ]
+        }
+    ]
+}
