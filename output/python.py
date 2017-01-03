@@ -2,6 +2,7 @@ import requests
 import csv
 import json
 import os
+import math
 
 address = "http://api.monplan.tech:3000/units/"
 
@@ -21,10 +22,9 @@ def findCode(targetString):
 def readme(code, startingYear):
     file_name = "./updated/" + code + ".json"
     with open(file_name, "w") as json_file:
-        targetFile = code + ".json"
-        f = open(targetFile, "r")
-
-        data = json.loads(f.read())
+        targetFile = "./" + code + ".json"
+        print(targetFile)
+        data = json.loads(open((targetFile), "r").read())
 
         teachingPeriods = data['teachingPeriods']
         code = data['courseCode']
@@ -38,14 +38,13 @@ def readme(code, startingYear):
         jsonstring = ""
         for i in range(0, len(moreData)):
             jsonstring += moreData[i]
-        
-        print(jsonstring)
+
         for i in range(0, len(teachingPeriods)):
             currentTeachingPeriod = teachingPeriods[i]
             units = currentTeachingPeriod["units"]
 
             try:
-                year = startingYear + i
+                year = startingYear + math.floor(i/2)
                 semester = findCode(currentTeachingPeriod["teachingPeriod"]["semester"])
                 unitsArray = []
                 for i in range(0, len(units)):
@@ -55,12 +54,15 @@ def readme(code, startingYear):
                 teachingPeriodOut = {"year": year, "code": semester, "units": unitsArray, "numberOfUnits": len(unitsArray)}
                 output["teachingPeriods"].append(teachingPeriodOut)
             except:
-                print(" Error in " + code)
+                output["teachingPeriods"].append({})
 
 
-        print(output)
+        json_file.write(json.dumps(output, indent=4, sort_keys=True))
 
 
 
 
-readme('C2001-0',2016)
+for filename in os.listdir("."):
+    if filename != "python.py" and filename != "output": #converts all the file except for the Python File
+        outputDir = filename.rstrip('.json')
+        output = readme(outputDir, 2016)
