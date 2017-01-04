@@ -20,7 +20,7 @@ def readme(code):
 
 fullDatabase = []
 for filename in os.listdir("."):
-    if filename != "python2.py" and filename != "python.py" and  filename != "output" and filename != "updated": #converts all the file except for the Python File
+    if filename != "python2.py" and filename != "python.py" and  filename != "output" and filename != "updated" and filename.endswith('.json'): #converts all the file except for the Python File
         outputDir = filename.rstrip('.json')
         output = readme(outputDir)
         fullDatabase.append(output)
