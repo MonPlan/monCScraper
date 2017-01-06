@@ -5,7 +5,7 @@ if __name__ == "__main__":
     teachingPeriodCodes = [teachingPeriodType["code"] for teachingPeriodType in json.loads(teachingPeriodTypesFile.read())]
     teachingPeriodTypesFile.close()
 
-    file_name = input("Enter file name: ")
+    file_name = input("Enter file name: ").rstrip("\n")
     json_file = open(file_name, "r")
     json_object = json.loads(json_file.read())
     json_file.close()

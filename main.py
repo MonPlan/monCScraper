@@ -52,20 +52,19 @@ def unitInterperter(unit, faculty):
 
 
 def readme(code):
-    file_name = "./output/" + code + ".json"
+    file_name = "final_output/" + code
     with open(file_name, "w") as json_file:
-        targetFile = "./" + code + ".json"
-        print(targetFile)
-        data = json.loads(open((targetFile), "r").read())
+        print(code)
+        data = json.loads(open("output/" + code, "r").read())
 
         teachingPeriods = data['teachingPeriods']
         code = data['courseCode']
         courseName = data['courseName']
         courseType = data['courseType']
         faculty = data['faculty']
-        courseAOS = data['courseAOS']
+        #courseAOS = data['courseAOS']
 
-        output = {"courseCode": code, "courseName": courseName, "courseAOS": courseAOS, "faculty": faculty, "courseType": courseType, "teachingPeriods": []}
+        output = {"courseCode": code, "courseName": courseName, """"courseAOS": courseAOS,""" "faculty": faculty, "courseType": courseType, "teachingPeriods": []}
 
 
         for i in range(0, len(teachingPeriods)):
@@ -86,4 +85,7 @@ def readme(code):
 
 
 
-readme("E3003-0")
+for filename in os.listdir("output"):
+    if filename.endswith(".json"):
+        readme(filename)
+#readme("E3003-0")
