@@ -82,9 +82,12 @@ def readme(code):
 
         json_file.write(json.dumps(output, indent=4, sort_keys=True))
 
+if __name__ == "__main__":
+    if not os.path.exists("final_output"):
+        os.makedirs("final_output")
 
+    for filename in os.listdir("output"):
+        if filename.endswith(".json"):
+            readme(filename)
 
-for filename in os.listdir("output"):
-    if filename.endswith(".json"):
-        readme(filename)
 #readme("E3003-0")
