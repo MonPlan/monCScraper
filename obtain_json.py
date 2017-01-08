@@ -1,8 +1,12 @@
-links = ['0020.html', '0028.html', '0029.html', '0047.html', '0057.html', '0069.html', '0079.html', '0100.html', '0190.html', '0498.html', '1322.html', '2098.html', '2116.html', '2602.html', '2603.html', '2625.html', '2627.html', '2695.html', '2700.html', '2710.html', '2932.html', '2953.html', '2977.html', '3111.html', '3194.html', '3204.html', '3262.html', '3291.html', '3292.html', '3337.html', '3379.html', '3438.html', '3443.html', '3521.html', '3736.html', '3863.html', '3940.html', '3954.html', '3971.html', '4066.html', '4067.html', '4071.html', '4080.html', '4086.html', '4087.html', '4088.html', '4091.html', '4102.html', '4103.html', '4119.html', '4307.html', '4308.html', '4320.html', '4413.html', '4414.html', '4415.html', '4502.html', '4520.html', '4530.html', '4533.html', 'A0001.html', 'A0501.html', 'A0502.html', 'A0503.html', 'A2000.html', 'A2001.html', 'A2003.html', 'A2004.html', 'A2005.html', 'A2006.html', 'A2007.html', 'A3701.html', 'A3702.html', 'A6001.html', 'A6002.html', 'A6003.html', 'A6004.html', 'A6006.html', 'A6007.html', 'A6008.html', 'A6009.html', 'A6010.html', 'A6011.html', 'A6012.html', 'A6013.html', 'A6014.html', 'A6015.html', 'B2000.html', 'B2001.html', 'B2003.html', 'B2004.html', 'B2006.html', 'B2007.html', 'B2008.html', 'B2009.html', 'B2012.html', 'B2013.html', 'B2014.html', 'B2015.html', 'B2016.html', 'B2017.html', 'B2018.html', 'B2019.html', 'B2020.html', 'B2021.html', 'B2022.html', 'B2023.html', 'B2024.html', 'B2025.html', 'B2026.html', 'B2027.html', 'B3701.html', 'B3702.html', 'B4001.html', 'B5001.html', 'B5002.html', 'B5003.html', 'B6001.html', 'B6002.html', 'B6003.html', 'B6004.html', 'B6005.html', 'B6006.html', 'B6007.html', 'B6009.html', 'B6010.html', 'B6011.html', 'B6012.html', 'B6013.html', 'B6014.html', 'B6015.html', 'B6016.html', 'C2000.html', 'C2001.html', 'C2002.html', 'C2003.html', 'C3001.html', 'C3701.html', 'C3702.html', 'C4006.html', 'C5003.html', 'C6001.html', 'C6002.html', 'C6003.html', 'C6004.html', 'D0001.html', 'D0501.html', 'D0502.html', 'D2002.html', 'D3001.html', 'D3002.html', 'D3003.html', 'D3004.html', 'D3005.html', 'D3006.html', 'D3007.html', 'D3008.html', 'D3009.html', 'D3701.html', 'D4001.html', 'D4004.html', 'D4005.html', 'D5002.html', 'D6001.html', 'D6002.html', 'D6003.html', 'D6004.html', 'D6005.html', 'D6006.html', 'D6007.html', 'D6008.html', 'E3001.html', 'E3002.html', 'E3003.html', 'E3004.html', 'E3005.html', 'E3006.html', 'E3007.html', 'E3008.html', 'E3009.html', 'E3010.html', 'E3011.html', 'E6001.html', 'E6002.html', 'F2001.html', 'F2002.html', 'F2003.html', 'F2004.html', 'F2005.html', 'F2006.html', 'F2007.html', 'F3001.html', 'F3701.html', 'F3702.html', 'F6001.html', 'F6002.html', 'L3001.html', 'L3002.html', 'L3003.html', 'L3004.html', 'L3005.html', 'L3006.html', 'L3007.html', 'L3009.html', 'L5001.html', 'L6001.html', 'L6002.html', 'L6003.html', 'L6004.html', 'L6005.html', 'L6006.html', 'L6007.html', 'L6011.html', 'L6012.html', 'M2001.html', 'M2002.html', 'M2003.html', 'M2004.html', 'M2006.html', 'M3001.html', 'M3002.html', 'M3003.html', 'M3004.html', 'M3005.html', 'M3006.html', 'M3007.html', 'M3701.html', 'M3702.html', 'M3703.html', 'M3704.html', 'M4002.html', 'M4006.html', 'M4017.html', 'M5003.html', 'M5004.html', 'M5007.html', 'M5010.html', 'M5013.html', 'M5017.html', 'M5018.html', 'M6001.html', 'M6002.html', 'M6003.html', 'M6004.html', 'M6005.html', 'M6006.html', 'M6007.html', 'M6008.html', 'M6009.html', 'M6010.html', 'M6011.html', 'M6012.html', 'M6014.html', 'M6015.html', 'M6016.html', 'M6017.html', 'M6018.html', 'M6021.html', 'M6022.html', 'M6023.html', 'M6024.html', 'M6025.html', 'M6026.html', 'M6027.html', 'M6028.html', 'P2001.html', 'P3001.html', 'P3002.html', 'P3701.html', 'P4001.html', 'P6001.html', 'P6002.html', 'P6003.html', 'S2000.html', 'S2003.html', 'S2004.html', 'S2005.html', 'S2006.html', 'S2007.html', 'S2008.html', 'S2009.html', 'S3001.html', 'S3002.html', 'S3701.html', 'S6001.html', 'S6002.html']
+# course_codes = ["0020","0028","0029","0047","0057","0069","0079","0100","0190","0498","1322","2098","2116","2602","2603","2625","2627","2695","2700","2710","2932","2953","2977","3111","3194","3204","3262","3291","3292","3337","3379","3438","3443","3521","3736","3863","3940","3954","3971","4066","4067","4071","4080","4086","4087","4088","4091","4102","4103","4119","4307","4308","4320","4413","4414","4415","4502","4520","4530","4533","A0001","A0501","A0502","A0503","A2000","A2001","A2003","A2004","A2005","A2006","A2007","A3701","A3702","A6001","A6002","A6003","A6004","A6006","A6007","A6008","A6009","A6010","A6011","A6012","A6013","A6014","A6015","B2000","B2001","B2003","B2004","B2006","B2007","B2008","B2009","B2012","B2013","B2014","B2015","B2016","B2017","B2018","B2019","B2020","B2021","B2022","B2023","B2024","B2025","B2026","B2027","B3701","B3702","B4001","B5001","B5002","B5003","B6001","B6002","B6003","B6004","B6005","B6006","B6007","B6009","B6010","B6011","B6012","B6013","B6014","B6015","B6016","C2000","C2001","C2002","C2003","C3001","C3701","C3702","C4006","C5003","C6001","C6002","C6003","C6004","D0001","D0501","D0502","D2002","D3001","D3002","D3003","D3004","D3005","D3006","D3007","D3008","D3009","D3701","D4001","D4004","D4005","D5002","D6001","D6002","D6003","D6004","D6005","D6006","D6007","D6008","E3001","E3002","E3003","E3004","E3005","E3006","E3007","E3008","E3009","E3010","E3011","E6001","E6002","F2001","F2002","F2003","F2004","F2005","F2006","F2007","F3001","F3701","F3702","F6001","F6002","L3001","L3002","L3003","L3004","L3005","L3006","L3007","L3009","L5001","L6001","L6002","L6003","L6004","L6005","L6006","L6007","L6011","L6012","M2001","M2002","M2003","M2004","M2006","M3001","M3002","M3003","M3004","M3005","M3006","M3007","M3701","M3702","M3703","M3704","M4002","M4006","M4017","M5003","M5004","M5007","M5010","M5013","M5017","M5018","M6001","M6002","M6003","M6004","M6005","M6006","M6007","M6008","M6009","M6010","M6011","M6012","M6014","M6015","M6016","M6017","M6018","M6021","M6022","M6023","M6024","M6025","M6026","M6027","M6028","P2001","P3001","P3002","P3701","P4001","P6001","P6002","P6003","S2000","S2003","S2004","S2005","S2006","S2007","S2008","S2009","S3001","S3002","S3701","S6001","S6002"] 
 
+course_codes = ["3971","4520","4530","A2000","A2001","A2003","A2004","A2005","B2000","B2001","B2003","B2004","B2006","B2007","B2008","B2009","B2012","B2013","B2014","B2016","B2017","B2018","B2019","B2020","B2021","B2022","B2023","B2024","B2025","B6002","B6003","B6004","B6005","B6009","B6011","B6012","B6013","B6014","B6015","C2000","C2001","C2002","C2003","C3001","D3001","D3002","D3003","D3004","D3005","D3006","D3007","D3008","D3009","E3001","E3002","E3003","E3004","E3005","E3006","E3007","E3009","E6001","F2001","F2003","F2004","F2005","F2006","F2007","F3001","F6001","F6002","L3002","L3003","L3004","L3005","L3006","L3007","L3009","M2001","M2002","M2003","M2006","M3001","M3002","M3004","M3005","M3006","M6018","P2001","P3001","P3002","P6001","S2000","S2003","S2004","S2005","S2006","S2007","S3001","S3002","S6001","S6002"]
+print(len(course_codes))
+quit()
 import re
 import os
 import json
+from copy import copy
 unit_code = re.compile(r"[A-Z]{3}[0-9]{4}")
 
 year_delta = re.compile(r"year [0-9]+", re.IGNORECASE)
@@ -16,16 +20,35 @@ from bs4 import BeautifulSoup
 if not os.path.exists("output"):
     os.makedirs("output")
 
-for link in links:
-    f = open("raw/" + link.rstrip(".html"), "r")
-    soup = BeautifulSoup(f.read(), "lxml")
+for course_code in course_codes:
+    c = open("courses/" + course_code + ".html", "r")
+    course_soup = BeautifulSoup(c.read(), "lxml")
+    c.close()
+
+    course_info_box = course_soup.findAll("div", class_="course-info-box")[0]
+
+    course_info = {}
+
+    for p in course_info_box.findAll("p"):
+        if(p.get("class")[0] == "pub_highlight_heading"):
+            course_key = p.getText(" ")
+        elif(p.get("class")[0] == "pub_highlight_value"):
+            if(course_key in course_info):
+                course_info[course_key] += p.getText(" ")
+            else:
+                course_info[course_key] = p.getText(" ")
+
+    f = open("raw/" + course_code, "r")
+    soup = BeautifulSoup(f.read().replace("\n", " ").replace("\t", " ").replace("\r", " "), "lxml")
+    f.close()
+
     headerCourse = soup.findAll("div", class_="page-header-courses")
     courseName = ""
     courseType = ""
     script = ""
     if headerCourse:
         try:
-            script = soup.find("body").find("script").getText()
+            script = soup.find("body").find("script").getText(" ")
             script = script[script.find("push") + 1:]
             script = script[script.find("push") + 5:]
             script = script[:len(script) - script[::-1].find("}")]
@@ -33,38 +56,103 @@ for link in links:
         except:
             print("Couldn't obtain script")
         try:
-            courseName = headerCourse[0].find("h1").getText()
-            courseType = headerCourse[0].find("p").getText()
+            courseName = headerCourse[0].find("h1").getText(" ")
+            courseType = headerCourse[0].find("p").getText(" ")
         except:
             print("Couldn't obtain some of the header text")
-    print(link)
+
+    print(course_code)
+
+    first_year = -1
+
     for i, table in enumerate(soup.findAll('table', {"class": "course-page__course-structure"})):
-        file_name = link.rstrip(".html") + "-" + str(i) + ".json"
+        file_name = course_code + "-" + str(i) + ".json"
         with open("output/" + file_name, "w") as json_file:
             print("Writing:", file_name)
-            output_dict = {"courseCode": link.rstrip(".html"), "courseName": courseName, "courseType": courseType, "teachingPeriods": [], "script": script}
+            
+            courseAOS = table
+
+            while(dict(courseAOS.attrs).get("class") != ["scroll-wrapper"]):
+                courseAOS = courseAOS.parent
+                
+            output_dict = {"courseCode": course_code, "courseName": courseName, "courseType": courseType, "teachingPeriods": [], "faculty": "Faculty of " + course_info["Managing faculty"], "courseAOS": courseAOS.find("h2").getText(" ")}
 
             rows = table.findAll('tr')
             for row in rows:
                 header = row.find('th')
+                course_map = {}
+
                 if header is not None:
-                    header_text = header.getText()
+                    header_text = header.getText(" ")
                     year_strings = year_delta.findall(header_text)
                     semester_strings = semester_delta.findall(header_text)
                     if not semester_strings:
                         semester_strings = sem_delta.findall(header_text)
 
-                    if year_strings and semester_strings:
-                        header = {"year": number_regex.findall(year_strings[0])[0], "semester": number_regex.findall(semester_strings[0])[0]}
-                    else:
-                        print(header_text)
-                        header = {}
-                else:
-                    header = {}
+                    if year_strings:
+                        year_int = int(number_regex.findall(year_strings[0])[0])
+
+                        if first_year == -1:
+                            first_year = year_int
+
+                        # Just for Eric
+                        course_map["year"] = year_int - first_year
+
+                    if semester_strings and int(number_regex.findall(semester_strings[0])[0]) in (1, 2):
+                        course_map["code"] = (None, "S1-01", "S2-01")[int(number_regex.findall(semester_strings[0])[0])]
+
+                    if not (year_strings or semester_strings):
+                        print("Couldn't get teaching period info")
+                        course_map["teachingPeriod"] = header_text
+            
                 cells = row.findAll('td')
-                output_dict["teachingPeriods"].append({
-                    "teachingPeriod": header,
-                    "units": [unit_code.findall(cell.getText())[0] for cell in cells if unit_code.search(cell.getText()) is not None]
-                })
+
+                units = []
+
+                for cell in cells:
+                    unit_string = " ".join(cell.getText(" ").replace("\r", "").replace("\n", "").strip(" ").split())
+
+                    if(not unit_string):
+                        continue
+
+                    unit_codes = unit_code.findall(unit_string)
+
+                    if(len(unit_codes) == 1):
+                        units.append(unit_codes[0])
+                    else:
+                        current_units = unit_string.split(" or ")
+                        
+                        if len(current_units) == 1:
+                            if unit_string.lower() == "elective":
+                                units.append("Elective")
+                            else:
+                                units.append({
+                                    "type": unit_string,
+                                    "faculty": ""
+                                })
+                        else:
+                            output_current_units = []
+                            for current_unit in current_units:
+                                unit_codes = unit_code.findall(current_unit)
+
+                                if(len(unit_codes) == 1):
+                                    output_current_units.append(unit_codes[0])
+                                else:
+                                    break
+                            if len(current_units) == len(output_current_units):
+                                print("multiple units detected")
+                                units.append(output_current_units)
+                            else:
+                                units.append({
+                                    "type": unit_string,
+                                    "faculty": ""
+                                })
+                
+                if(not units):
+                    continue
+
+                course_map["units"] = units
+                output_dict["teachingPeriods"].append(course_map)
+
             json_file.write(json.dumps(output_dict, indent=4, sort_keys=True))
     # print(tree.xpath('//*[@class="course-page__course-structure"]//text()'))
